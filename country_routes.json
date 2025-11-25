@@ -1,0 +1,2732 @@
+{
+    "Afghanistan": {
+        "1": {
+            "city": "Kabul",
+            "attractions": [ "Babur Garden", "National Museum", "Old City" ]
+        },
+        "2": {
+            "city": "Herat",
+            "attractions": [ "Herat Citadel", "Friday Mosque" ]
+        },
+        "3": {
+            "city": "Mazar-i-Sharif",
+            "attractions": [ "Blue Mosque", "Local Bazars" ]
+        }
+    },
+    "Albania": {
+        "1": {
+            "city": "Tirana",
+            "attractions": [ "Skanderbeg Square", "Et'hem Bey Mosque" ]
+        },
+        "2": {
+            "city": "Berat",
+            "attractions": [ "Berat Castle", "Mangalem Quarter" ]
+        },
+        "3": {
+            "city": "Gjirokaster",
+            "attractions": [ "Gjirokaster Castle", "Old Bazaar" ]
+        }
+    },
+    "Algeria": {
+        "1": {
+            "city": "Algiers",
+            "attractions": [ "Kasbah", "Martyrs Memorial" ]
+        },
+        "2": {
+            "city": "Oran",
+            "attractions": [ "Fort of Santa Cruz", "Place du 1er Novembre" ]
+        },
+        "3": {
+            "city": "Constantine",
+            "attractions": [ "Suspension Bridges", "Ancient Sites" ]
+        }
+    },
+    "Andorra": {
+        "1": {
+            "city": "Andorra la Vella",
+            "attractions": [ "Old Town", "Sant Esteve Church" ]
+        },
+        "2": {
+            "city": "Encamp",
+            "attractions": [ "Mountain Trails", "Casa de la Vall" ]
+        },
+        "3": {
+            "city": "Ordino",
+            "attractions": [ "Naturlandia Park", "Museums" ]
+        }
+    },
+    "Angola": {
+        "1": {
+            "city": "Luanda",
+            "attractions": [ "Fortress of Sao Miguel", "Marginal Promenade" ]
+        },
+        "2": {
+            "city": "Benguela",
+            "attractions": [ "Beaches", "Historic Center" ]
+        },
+        "3": {
+            "city": "Huambo",
+            "attractions": [ "Local Markets", "Parks" ]
+        }
+    },
+    "Antigua and Barbuda": {
+        "1": {
+            "city": "St. John's",
+            "attractions": [ "Nelson's Dockyard", "Fort James" ]
+        },
+        "2": {
+            "city": "Pigeon Point",
+            "attractions": [ "Beaches", "Snorkeling" ]
+        },
+        "3": {
+            "city": "English Harbour",
+            "attractions": [ "Historic Sites", "Marina" ]
+        }
+    },
+    "Argentina": {
+        "1": {
+            "city": "Buenos Aires",
+            "attractions": [ "Plaza de Mayo", "La Boca", "Recoleta Cemetery" ]
+        },
+        "2": {
+            "city": "Iguazu",
+            "attractions": [ "Iguazu Falls", "Walking Trails" ]
+        },
+        "3": {
+            "city": "Mendoza",
+            "attractions": [ "Wine Tours", "Andes Views" ]
+        }
+    },
+    "Armenia": {
+        "1": {
+            "city": "Yerevan",
+            "attractions": [ "Republic Square", "Cascades" ]
+        },
+        "2": {
+            "city": "Garni",
+            "attractions": [ "Garni Temple", "Geghard Monastery" ]
+        },
+        "3": {
+            "city": "Dilijan",
+            "attractions": [ "Nature Trails", "Old Town" ]
+        }
+    },
+    "Australia": {
+        "1": {
+            "city": "Sydney",
+            "attractions": [ "Sydney Opera House", "Harbour Bridge", "Bondi Beach" ]
+        },
+        "2": {
+            "city": "Melbourne",
+            "attractions": [ "Royal Botanic Gardens", "Federation Square" ]
+        },
+        "3": {
+            "city": "Cairns",
+            "attractions": [ "Great Barrier Reef", "Daintree Rainforest" ]
+        }
+    },
+    "Austria": {
+        "1": {
+            "city": "Vienna",
+            "attractions": [ "Schonbrunn Palace", "St. Stephen's Cathedral" ]
+        },
+        "2": {
+            "city": "Salzburg",
+            "attractions": [ "Hohensalzburg Fortress", "Mozart House" ]
+        },
+        "3": {
+            "city": "Innsbruck",
+            "attractions": [ "Alpine Views", "Old Town" ]
+        }
+    },
+    "Azerbaijan": {
+        "1": {
+            "city": "Baku",
+            "attractions": [ "Icherisheher", "Flame Towers" ]
+        },
+        "2": {
+            "city": "Sheki",
+            "attractions": [ "Sheki Khan's Palace", "Old Bazaar" ]
+        },
+        "3": {
+            "city": "Gabala",
+            "attractions": [ "Nature Parks", "Waterfalls" ]
+        }
+    },
+    "Bahamas": {
+        "1": {
+            "city": "Nassau",
+            "attractions": [ "Paradise Island", "Queen's Staircase" ]
+        },
+        "2": {
+            "city": "Freeport",
+            "attractions": [ "Beaches", "Port Lucaya Market" ]
+        },
+        "3": {
+            "city": "Exuma",
+            "attractions": [ "Swimming Pigs", "Cays" ]
+        }
+    },
+    "Bahrain": {
+        "1": {
+            "city": "Manama",
+            "attractions": [ "Bahrain National Museum", "Bab Al Bahrain" ]
+        },
+        "2": {
+            "city": "Muharraq",
+            "attractions": [ "Pearling Path", "Old Houses" ]
+        },
+        "3": {
+            "city": "Al Areen",
+            "attractions": [ "Wildlife Park", "Nature Reserve" ]
+        }
+    },
+    "Bangladesh": {
+        "1": {
+            "city": "Dhaka",
+            "attractions": [ "Lalbagh Fort", "Ahsan Manzil" ]
+        },
+        "2": {
+            "city": "Chittagong",
+            "attractions": [ "Patenga Beach", "Ship Breaking Viewpoints" ]
+        },
+        "3": {
+            "city": "Sundarbans",
+            "attractions": [ "Mangrove Tours", "Wildlife" ]
+        }
+    },
+    "Barbados": {
+        "1": {
+            "city": "Bridgetown",
+            "attractions": [ "Historic Garrison", "Beaches" ]
+        },
+        "2": {
+            "city": "Saint Peter",
+            "attractions": [ "Beachfronts", "Local Tours" ]
+        },
+        "3": {
+            "city": "Holetown",
+            "attractions": [ "Shopping", "Relaxation" ]
+        }
+    },
+    "Belarus": {
+        "1": {
+            "city": "Minsk",
+            "attractions": [ "Victory Square", "National Library" ]
+        },
+        "2": {
+            "city": "Brest",
+            "attractions": [ "Brest Fortress", "Museums" ]
+        },
+        "3": {
+            "city": "Grodno",
+            "attractions": [ "Old Town", "Castles" ]
+        }
+    },
+    "Belgium": {
+        "1": {
+            "city": "Brussels",
+            "attractions": [ "Grand Place", "Atomium" ]
+        },
+        "2": {
+            "city": "Bruges",
+            "attractions": [ "Canals", "Belfry" ]
+        },
+        "3": {
+            "city": "Antwerp",
+            "attractions": [ "Cathedral", "Museum aan de Stroom" ]
+        }
+    },
+    "Belize": {
+        "1": {
+            "city": "Belize City",
+            "attractions": [ "Museum", "Local Markets" ]
+        },
+        "2": {
+            "city": "San Ignacio",
+            "attractions": [ "Mayan Ruins", "Caving" ]
+        },
+        "3": {
+            "city": "Ambergris Caye",
+            "attractions": [ "Barrier Reef", "Water Activities" ]
+        }
+    },
+    "Benin": {
+        "1": {
+            "city": "Porto-Novo",
+            "attractions": [ "Royal Palace", "Museums" ]
+        },
+        "2": {
+            "city": "Abomey",
+            "attractions": [ "Royal Palaces", "Historical Sites" ]
+        },
+        "3": {
+            "city": "Ouidah",
+            "attractions": [ "Door of No Return", "Slave Route" ]
+        }
+    },
+    "Bhutan": {
+        "1": {
+            "city": "Thimphu",
+            "attractions": [ "Tashicho Dzong", "National Memorial Chorten" ]
+        },
+        "2": {
+            "city": "Paro",
+            "attractions": [ "Paro Taktsang", "National Museum" ]
+        },
+        "3": {
+            "city": "Trongsa",
+            "attractions": [ "Trongsa Dzong", "National Heritage" ]
+        }
+    },
+    "Bolivia": {
+        "1": {
+            "city": "La Paz",
+            "attractions": [ "Valley of the Moon", "Witches Market" ]
+        },
+        "2": {
+            "city": "Uyuni",
+            "attractions": [ "Salar de Uyuni", "Train Cemetery" ]
+        },
+        "3": {
+            "city": "Sucre",
+            "attractions": [ "Colonial Architecture", "Museums" ]
+        }
+    },
+    "Bosnia and Herzegovina": {
+        "1": {
+            "city": "Sarajevo",
+            "attractions": [ "Baščaršija", "Latin Bridge" ]
+        },
+        "2": {
+            "city": "Mostar",
+            "attractions": [ "Stari Most", "Old Bazaar" ]
+        },
+        "3": {
+            "city": "Jajce",
+            "attractions": [ "Waterfalls", "Old Town" ]
+        }
+    },
+    "Botswana": {
+        "1": {
+            "city": "Gaborone",
+            "attractions": [ "National Museum", "Gaborone Dam" ]
+        },
+        "2": {
+            "city": "Maun",
+            "attractions": [ "Okavango Delta Tours", "Wildlife" ]
+        },
+        "3": {
+            "city": "Chobe",
+            "attractions": [ "Chobe National Park", "River Safaris" ]
+        }
+    },
+    "Brazil": {
+        "1": {
+            "city": "Rio de Janeiro",
+            "attractions": [ "Christ the Redeemer", "Sugarloaf Mountain" ]
+        },
+        "2": {
+            "city": "Salvador",
+            "attractions": [ "Pelourinho", "Historic Center" ]
+        },
+        "3": {
+            "city": "Iguazu",
+            "attractions": [ "Iguazu Falls", "Walking Trails" ]
+        }
+    },
+    "Brunei": {
+        "1": {
+            "city": "Bandar Seri Begawan",
+            "attractions": [ "Sultan Omar Ali Saifuddien Mosque", "Royal Regalia Museum" ]
+        },
+        "2": {
+            "city": "Ulu Temburong",
+            "attractions": [ "Canopy Walk", "Rainforest" ]
+        },
+        "3": {
+            "city": "Jerudong",
+            "attractions": [ "Beaches", "Local Parks" ]
+        }
+    },
+    "Bulgaria": {
+        "1": {
+            "city": "Sofia",
+            "attractions": [ "Alexander Nevsky Cathedral", "Vitosha Mountain" ]
+        },
+        "2": {
+            "city": "Plovdiv",
+            "attractions": [ "Roman Theatre", "Old Town" ]
+        },
+        "3": {
+            "city": "Varna",
+            "attractions": [ "Sea Garden", "Beaches" ]
+        }
+    },
+    "Burkina Faso": {
+        "1": {
+            "city": "Ouagadougou",
+            "attractions": [ "National Museum", "Market" ]
+        },
+        "2": {
+            "city": "Bobo-Dioulasso",
+            "attractions": [ "Grand Mosque", "Old Town" ]
+        },
+        "3": {
+            "city": "Banfora",
+            "attractions": [ "Cascades", "Natural Parks" ]
+        }
+    },
+    "Burundi": {
+        "1": {
+            "city": "Bujumbura",
+            "attractions": [ "Lake Tanganyika", "Local Museums" ]
+        },
+        "2": {
+            "city": "Gitega",
+            "attractions": [ "Royal Palace", "Cultural Sites" ]
+        },
+        "3": {
+            "city": "Ruvubu",
+            "attractions": [ "National Park", "Nature Trails" ]
+        }
+    },
+    "Cabo Verde": {
+        "1": {
+            "city": "Praia",
+            "attractions": [ "Old Town", "Beaches" ]
+        },
+        "2": {
+            "city": "Mindelo",
+            "attractions": [ "Cultural Life", "Harbor" ]
+        },
+        "3": {
+            "city": "Sal",
+            "attractions": [ "Beaches", "Water Sports" ]
+        }
+    },
+    "Cambodia": {
+        "1": {
+            "city": "Phnom Penh",
+            "attractions": [ "Royal Palace", "National Museum" ]
+        },
+        "2": {
+            "city": "Siem Reap",
+            "attractions": [ "Angkor Wat", "Bayon Temple" ]
+        },
+        "3": {
+            "city": "Battambang",
+            "attractions": [ "Colonial Architecture", "Rice Fields" ]
+        }
+    },
+    "Cameroon": {
+        "1": {
+            "city": "Yaounde",
+            "attractions": [ "National Museum", "Markets" ]
+        },
+        "2": {
+            "city": "Douala",
+            "attractions": [ "Port", "Cultural Sites" ]
+        },
+        "3": {
+            "city": "Mount Cameroon",
+            "attractions": [ "Hiking", "Scenic Views" ]
+        }
+    },
+    "Canada": {
+        "1": {
+            "city": "Toronto",
+            "attractions": [ "CN Tower", "Royal Ontario Museum" ]
+        },
+        "2": {
+            "city": "Niagara",
+            "attractions": [ "Niagara Falls", "Vineyards" ]
+        },
+        "3": {
+            "city": "Vancouver",
+            "attractions": [ "Stanley Park", "Granville Island" ]
+        }
+    },
+    "Central African Republic": {
+        "1": {
+            "city": "Bangui",
+            "attractions": [ "Notre-Dame Cathedral", "Local markets" ]
+        },
+        "2": {
+            "city": "Dzanga-Sangha",
+            "attractions": [ "Wildlife Reserve", "Forest Tours" ]
+        },
+        "3": {
+            "city": "Boali",
+            "attractions": [ "Boali Falls", "Nature Spots" ]
+        }
+    },
+    "Chad": {
+        "1": {
+            "city": "N'Djamena",
+            "attractions": [ "Markets", "Riverfront" ]
+        },
+        "2": {
+            "city": "Zakouma",
+            "attractions": [ "National Park", "Safaris" ]
+        },
+        "3": {
+            "city": "Ennedi",
+            "attractions": [ "Rock Formations", "Desert Scenery" ]
+        }
+    },
+    "Chile": {
+        "1": {
+            "city": "Santiago",
+            "attractions": [ "San Cristobal Hill", "Bellavista" ]
+        },
+        "2": {
+            "city": "Valparaiso",
+            "attractions": [ "Colorful Hills", "Funiculars" ]
+        },
+        "3": {
+            "city": "Atacama",
+            "attractions": [ "Valle de la Luna", "Geysers" ]
+        }
+    },
+    "China": {
+        "1": {
+            "city": "Beijing",
+            "attractions": [ "Great Wall", "Forbidden City" ]
+        },
+        "2": {
+            "city": "Xi'an",
+            "attractions": [ "Terracotta Army", "Ancient Wall" ]
+        },
+        "3": {
+            "city": "Shanghai",
+            "attractions": [ "The Bund", "Yu Garden" ]
+        }
+    },
+    "Colombia": {
+        "1": {
+            "city": "Bogota",
+            "attractions": [ "Gold Museum", "Monserrate" ]
+        },
+        "2": {
+            "city": "Medellin",
+            "attractions": [ "Botero Plaza", "Metrocable" ]
+        },
+        "3": {
+            "city": "Cartagena",
+            "attractions": [ "Old Town", "Castillo San Felipe" ]
+        }
+    },
+    "Comoros": {
+        "1": {
+            "city": "Moroni",
+            "attractions": [ "Old Friday Mosque", "Market" ]
+        },
+        "2": {
+            "city": "Grande Comore",
+            "attractions": [ "Beaches", "Volcano Views" ]
+        },
+        "3": {
+            "city": "Anjouan",
+            "attractions": [ "Local Villages", "Scenic Coasts" ]
+        }
+    },
+    "Congo (Brazzaville)": {
+        "1": {
+            "city": "Brazzaville",
+            "attractions": [ "Basilica of Sainte-Anne", "Riverfront" ]
+        },
+        "2": {
+            "city": "Pointe-Noire",
+            "attractions": [ "Beaches", "Market" ]
+        },
+        "3": {
+            "city": "Odzala",
+            "attractions": [ "National Park", "Wildlife" ]
+        }
+    },
+    "Congo (Kinshasa)": {
+        "1": {
+            "city": "Kinshasa",
+            "attractions": [ "National Museum", "Market" ]
+        },
+        "2": {
+            "city": "Kisangani",
+            "attractions": [ "Congo River Tours", "Local Culture" ]
+        },
+        "3": {
+            "city": "Kahuzi-Biega",
+            "attractions": [ "Gorilla Habitats", "Nature" ]
+        }
+    },
+    "Costa Rica": {
+        "1": {
+            "city": "San Jose",
+            "attractions": [ "National Theater", "Museums" ]
+        },
+        "2": {
+            "city": "Arenal",
+            "attractions": [ "Arenal Volcano", "Hot Springs" ]
+        },
+        "3": {
+            "city": "Monteverde",
+            "attractions": [ "Cloud Forest", "Canopy Tours" ]
+        }
+    },
+    "Cote d'Ivoire": {
+        "1": {
+            "city": "Abidjan",
+            "attractions": [ "St. Paul's Cathedral", "Markets" ]
+        },
+        "2": {
+            "city": "Yamoussoukro",
+            "attractions": [ "Basilica of Our Lady", "Lake" ],
+            "3": {
+                "city": "San Pedro",
+                "attractions": [ "Beaches", "Local Fishing" ]
+            }
+        }
+    },
+    "Croatia": {
+        "1": {
+            "city": "Zagreb",
+            "attractions": [ "Upper Town", "St. Mark's Church" ]
+        },
+        "2": {
+            "city": "Split",
+            "attractions": [ "Diocletian's Palace", "Riva Promenade" ]
+        },
+        "3": {
+            "city": "Dubrovnik",
+            "attractions": [ "City Walls", "Old Town" ]
+        }
+    },
+    "Cuba": {
+        "1": {
+            "city": "Havana",
+            "attractions": [ "Old Havana", "Malecón" ]
+        },
+        "2": {
+            "city": "Trinidad",
+            "attractions": [ "Colonial Center", "Beaches" ]
+        },
+        "3": {
+            "city": "Viñales",
+            "attractions": [ "Valley", "Tobacco Farms" ]
+        }
+    },
+    "Cyprus": {
+        "1": {
+            "city": "Nicosia",
+            "attractions": [ "Ledra Street", "Museums" ]
+        },
+        "2": {
+            "city": "Paphos",
+            "attractions": [ "Archaeological Park", "Tombs of the Kings" ]
+        },
+        "3": {
+            "city": "Limassol",
+            "attractions": [ "Marina", "Medieval Castle" ]
+        }
+    },
+    "Czech Republic": {
+        "1": {
+            "city": "Prague",
+            "attractions": [ "Charles Bridge", "Prague Castle" ]
+        },
+        "2": {
+            "city": "Kutna Hora",
+            "attractions": [ "Sedlec Ossuary", "St. Barbara's Church" ]
+        },
+        "3": {
+            "city": "Cesky Krumlov",
+            "attractions": [ "Historic Center", "Castle" ]
+        }
+    },
+    "Denmark": {
+        "1": {
+            "city": "Copenhagen",
+            "attractions": [ "Tivoli Gardens", "Nyhavn" ]
+        },
+        "2": {
+            "city": "Aarhus",
+            "attractions": [ "ARoS Museum", "Old Town" ]
+        },
+        "3": {
+            "city": "Roskilde",
+            "attractions": [ "Viking Ship Museum", "Cathedral" ]
+        }
+    },
+    "Djibouti": {
+        "1": {
+            "city": "Djibouti City",
+            "attractions": [ "Lac Assal", "Markets" ]
+        },
+        "2": {
+            "city": "Tadjoura",
+            "attractions": [ "Beaches", "Diving" ]
+        },
+        "3": {
+            "city": "Dikhil",
+            "attractions": [ "Nature", "Hiking" ]
+        }
+    },
+    "Dominica": {
+        "1": {
+            "city": "Roseau",
+            "attractions": [ "Botanical Gardens", "Old Market" ]
+        },
+        "2": {
+            "city": "Soufriere",
+            "attractions": [ "Boiling Lake", "Waterfalls" ]
+        },
+        "3": {
+            "city": "Morne Trois Pitons",
+            "attractions": [ "National Park", "Nature Trails" ]
+        }
+    },
+    "Dominican Republic": {
+        "1": {
+            "city": "Santo Domingo",
+            "attractions": [ "Zona Colonial", "Catedral Primada" ]
+        },
+        "2": {
+            "city": "Punta Cana",
+            "attractions": [ "Beaches", "Resorts" ]
+        },
+        "3": {
+            "city": "Samaná",
+            "attractions": [ "Whale Watching", "Beaches" ]
+        }
+    },
+    "Ecuador": {
+        "1": {
+            "city": "Quito",
+            "attractions": [ "Old Town", "Basilica" ]
+        },
+        "2": {
+            "city": "Galapagos",
+            "attractions": [ "Wildlife Tours", "Islands" ]
+        },
+        "3": {
+            "city": "Cuenca",
+            "attractions": [ "Colonial Center", "Museums" ]
+        }
+    },
+    "Egypt": {
+        "1": {
+            "city": "Cairo",
+            "attractions": [ "Pyramids of Giza", "Egyptian Museum" ]
+        },
+        "2": {
+            "city": "Luxor",
+            "attractions": [ "Valley of the Kings", "Karnak Temple" ]
+        },
+        "3": {
+            "city": "Aswan",
+            "attractions": [ "Philae Temple", "Nile Cruises" ]
+        }
+    },
+    "El Salvador": {
+        "1": {
+            "city": "San Salvador",
+            "attractions": [ "National Palace", "Cathedral" ]
+        },
+        "2": {
+            "city": "Suchitoto",
+            "attractions": [ "Colonial Town", "Lake" ]
+        },
+        "3": {
+            "city": "La Libertad",
+            "attractions": [ "Beaches", "Surfing" ]
+        }
+    },
+    "Equatorial Guinea": {
+        "1": {
+            "city": "Malabo",
+            "attractions": [ "Cathedral", "Markets" ]
+        },
+        "2": {
+            "city": "Bioko",
+            "attractions": [ "Nature", "Beaches" ]
+        },
+        "3": {
+            "city": "Luba",
+            "attractions": [ "Coastal Views", "Local Culture" ]
+        }
+    },
+    "Eritrea": {
+        "1": {
+            "city": "Asmara",
+            "attractions": [ "Italian Architecture", "Museums" ]
+        },
+        "2": {
+            "city": "Massawa",
+            "attractions": [ "Red Sea Coast", "Historic Sites" ]
+        },
+        "3": {
+            "city": "Keren",
+            "attractions": [ "Historic Battlefields", "Markets" ]
+        }
+    },
+    "Estonia": {
+        "1": {
+            "city": "Tallinn",
+            "attractions": [ "Old Town", "Toompea Castle" ]
+        },
+        "2": {
+            "city": "Tartu",
+            "attractions": [ "University", "Museums" ]
+        },
+        "3": {
+            "city": "Parnu",
+            "attractions": [ "Beaches", "Spa Town" ]
+        }
+    },
+    "Eswatini": {
+        "1": {
+            "city": "Mbabane",
+            "attractions": [ "Markets", "Cultural Centers" ]
+        },
+        "2": {
+            "city": "Lobamba",
+            "attractions": [ "Royal Village", "National Museum" ]
+        },
+        "3": {
+            "city": "Mlilwane",
+            "attractions": [ "Nature Reserve", "Wildlife" ]
+        }
+    },
+    "Ethiopia": {
+        "1": {
+            "city": "Addis Ababa",
+            "attractions": [ "National Museum", "Mercato" ]
+        },
+        "2": {
+            "city": "Lalibela",
+            "attractions": [ "Rock-Hewn Churches", "Pilgrimage Sites" ]
+        },
+        "3": {
+            "city": "Gondar",
+            "attractions": [ "Castles", "Historic Sites" ]
+        }
+    },
+    "Fiji": {
+        "1": {
+            "city": "Suva",
+            "attractions": [ "Museums", "Markets" ]
+        },
+        "2": {
+            "city": "Nadi",
+            "attractions": [ "Beaches", "Island Hopping" ]
+        },
+        "3": {
+            "city": "Mamanuca Islands",
+            "attractions": [ "Snorkeling", "Resorts" ]
+        }
+    },
+    "Finland": {
+        "1": {
+            "city": "Helsinki",
+            "attractions": [ "Suomenlinna", "Helsinki Cathedral" ]
+        },
+        "2": {
+            "city": "Turku",
+            "attractions": [ "Turku Castle", "Riverfront" ]
+        },
+        "3": {
+            "city": "Rovaniemi",
+            "attractions": [ "Arktikum", "Santa Claus Village" ]
+        }
+    },
+    "France": {
+        "1": {
+            "city": "Paris",
+            "attractions": [ "Eiffel Tower", "Louvre Museum" ]
+        },
+        "2": {
+            "city": "Versailles",
+            "attractions": [ "Palace of Versailles", "Tuileries Garden" ]
+        },
+        "3": {
+            "city": "Nice",
+            "attractions": [ "Promenade des Anglais", "Old Town Nice" ]
+        }
+    },
+    "Gabon": {
+        "1": {
+            "city": "Libreville",
+            "attractions": [ "Lope National Park (access)", "Seaside" ]
+        },
+        "2": {
+            "city": "Port-Gentil",
+            "attractions": [ "Coastal Life", "Markets" ]
+        },
+        "3": {
+            "city": "Loango",
+            "attractions": [ "Wildlife", "Beaches" ]
+        }
+    },
+    "Gambia": {
+        "1": {
+            "city": "Banjul",
+            "attractions": [ "Arch 22", "Local Markets" ]
+        },
+        "2": {
+            "city": "Kunta Kinteh Island",
+            "attractions": [ "Historical Sites", "River Tours" ]
+        },
+        "3": {
+            "city": "Bakau",
+            "attractions": [ "Beaches", "Botanic Gardens" ]
+        }
+    },
+    "Georgia": {
+        "1": {
+            "city": "Tbilisi",
+            "attractions": [ "Old Town", "Narikala Fortress" ]
+        },
+        "2": {
+            "city": "Mtskheta",
+            "attractions": [ "Jvari Monastery", "Svetitskhoveli Cathedral" ]
+        },
+        "3": {
+            "city": "Kazbegi",
+            "attractions": [ "Gergeti Trinity Church", "Mountain Views" ]
+        }
+    },
+    "Germany": {
+        "1": {
+            "city": "Berlin",
+            "attractions": [ "Brandenburg Gate", "Reichstag" ]
+        },
+        "2": {
+            "city": "Munich",
+            "attractions": [ "Marienplatz", "English Garden" ]
+        },
+        "3": {
+            "city": "Heidelberg",
+            "attractions": [ "Old Castle", "Philosopher's Walk" ]
+        }
+    },
+    "Ghana": {
+        "1": {
+            "city": "Accra",
+            "attractions": [ "Kwame Nkrumah Mausoleum", "Makola Market" ]
+        },
+        "2": {
+            "city": "Cape Coast",
+            "attractions": [ "Cape Coast Castle", "Beaches" ]
+        },
+        "3": {
+            "city": "Kumasi",
+            "attractions": [ "Manhyia Palace Museum", "Cultural Sites" ]
+        }
+    },
+    "Greece": {
+        "1": {
+            "city": "Athens",
+            "attractions": [ "Acropolis", "Plaka" ]
+        },
+        "2": {
+            "city": "Santorini",
+            "attractions": [ "Oia Sunset", "Fira" ]
+        },
+        "3": {
+            "city": "Crete",
+            "attractions": [ "Knossos", "Heraklion" ]
+        }
+    },
+    "Grenada": {
+        "1": {
+            "city": "St. George's",
+            "attractions": [ "Fort George", "Grand Anse Beach" ]
+        },
+        "2": {
+            "city": "Levera",
+            "attractions": [ "Nature Reserve", "Beaches" ]
+        },
+        "3": {
+            "city": "Carriacou",
+            "attractions": [ "Island Life", "Beaches" ]
+        }
+    },
+    "Guatemala": {
+        "1": {
+            "city": "Antigua",
+            "attractions": [ "Colonial Streets", "Santa Catalina Arch" ]
+        },
+        "2": {
+            "city": "Lake Atitlan",
+            "attractions": [ "Villages", "Boat Tours" ]
+        },
+        "3": {
+            "city": "Tikal",
+            "attractions": [ "Mayan Ruins", "Jungle Sites" ]
+        }
+    },
+    "Guinea": {
+        "1": {
+            "city": "Conakry",
+            "attractions": [ "National Museum", "Markets" ]
+        },
+        "2": {
+            "city": "Nzerekore",
+            "attractions": [ "Local Culture", "Forest Areas" ]
+        },
+        "3": {
+            "city": "Kankan",
+            "attractions": [ "Cultural Sites", "Markets" ]
+        }
+    },
+    "Guinea-Bissau": {
+        "1": {
+            "city": "Bissau",
+            "attractions": [ "Old Town", "Markets" ]
+        },
+        "2": {
+            "city": "Bijagos Archipelago",
+            "attractions": [ "Island Tours", "Wildlife" ]
+        },
+        "3": {
+            "city": "Cacheu",
+            "attractions": [ "Historical Sites", "River Areas" ]
+        }
+    },
+    "Guyana": {
+        "1": {
+            "city": "Georgetown",
+            "attractions": [ "St. George's Cathedral", "Botanical Gardens" ]
+        },
+        "2": {
+            "city": "Kaieteur",
+            "attractions": [ "Kaieteur Falls", "Nature Tours" ]
+        },
+        "3": {
+            "city": "Lethem",
+            "attractions": [ "Savannah", "Cultural Sites" ]
+        }
+    },
+    "Haiti": {
+        "1": {
+            "city": "Port-au-Prince",
+            "attractions": [ "Iron Market", "Museums" ]
+        },
+        "2": {
+            "city": "Jacmel",
+            "attractions": [ "Art Scene", "Beaches" ]
+        },
+        "3": {
+            "city": "Cap-Haitien",
+            "attractions": [ "Citadel", "Historic Sites" ]
+        }
+    },
+    "Honduras": {
+        "1": {
+            "city": "Tegucigalpa",
+            "attractions": [ "Historic Center", "Museums" ]
+        },
+        "2": {
+            "city": "Copan",
+            "attractions": [ "Mayan Ruins", "Archaeological Park" ]
+        },
+        "3": {
+            "city": "Roatan",
+            "attractions": [ "Beaches", "Diving" ]
+        }
+    },
+    "Hungary": {
+        "1": {
+            "city": "Budapest",
+            "attractions": [ "Buda Castle", "Parliament" ]
+        },
+        "2": {
+            "city": "Eger",
+            "attractions": [ "Castle", "Wine Region" ]
+        },
+        "3": {
+            "city": "Lake Balaton",
+            "attractions": [ "Resorts", "Beaches" ]
+        }
+    },
+    "Iceland": {
+        "1": {
+            "city": "Reykjavik",
+            "attractions": [ "Hallgrimskirkja", "Harpa" ]
+        },
+        "2": {
+            "city": "Golden Circle",
+            "attractions": [ "Geysir", "Gullfoss" ]
+        },
+        "3": {
+            "city": "South Coast",
+            "attractions": [ "Skogafoss", "Black Sand Beach" ]
+        }
+    },
+    "India": {
+        "1": {
+            "city": "Delhi",
+            "attractions": [ "Red Fort", "Qutub Minar" ]
+        },
+        "2": {
+            "city": "Agra",
+            "attractions": [ "Taj Mahal", "Agra Fort" ]
+        },
+        "3": {
+            "city": "Jaipur",
+            "attractions": [ "Amber Fort", "City Palace" ]
+        }
+    },
+    "Indonesia": {
+        "1": {
+            "city": "Jakarta",
+            "attractions": [ "National Monument", "Old Town" ]
+        },
+        "2": {
+            "city": "Yogyakarta",
+            "attractions": [ "Borobudur", "Prambanan" ]
+        },
+        "3": {
+            "city": "Bali",
+            "attractions": [ "Ubud", "Tanah Lot" ]
+        }
+    },
+    "Iran": {
+        "1": {
+            "city": "Tehran",
+            "attractions": [ "Golestan Palace", "Grand Bazaar" ]
+        },
+        "2": {
+            "city": "Isfahan",
+            "attractions": [ "Naqsh-e Jahan Square", "Sheikh Lotfollah Mosque" ]
+        },
+        "3": {
+            "city": "Shiraz",
+            "attractions": [ "Persepolis (nearby)", "Nasir al-Mulk Mosque" ]
+        }
+    },
+    "Iraq": {
+        "1": {
+            "city": "Baghdad",
+            "attractions": [ "National Museum", "Al-Mutanabbi Street" ]
+        },
+        "2": {
+            "city": "Erbil",
+            "attractions": [ "Citadel", "Kurdish Museum" ]
+        },
+        "3": {
+            "city": "Najaf/Karbala",
+            "attractions": [ "Shrines", "Pilgrim Sites" ]
+        }
+    },
+    "Ireland": {
+        "1": {
+            "city": "Dublin",
+            "attractions": [ "Trinity College", "Guinness Storehouse" ]
+        },
+        "2": {
+            "city": "Cliffs of Moher",
+            "attractions": [ "Cliffs", "Visitor Center" ]
+        },
+        "3": {
+            "city": "Galway",
+            "attractions": [ "Latin Quarter", "Connemara" ]
+        }
+    },
+    "Israel": {
+        "1": {
+            "city": "Jerusalem",
+            "attractions": [ "Old City", "Western Wall" ]
+        },
+        "2": {
+            "city": "Tel Aviv",
+            "attractions": [ "Beaches", "Jaffa" ]
+        },
+        "3": {
+            "city": "Dead Sea",
+            "attractions": [ "Masada", "Float Experience" ]
+        }
+    },
+    "Italy": {
+        "1": {
+            "city": "Rome",
+            "attractions": [ "Colosseum", "Vatican Museums" ]
+        },
+        "2": {
+            "city": "Florence",
+            "attractions": [ "Uffizi", "Duomo" ]
+        },
+        "3": {
+            "city": "Venice",
+            "attractions": [ "St. Mark's Square", "Grand Canal" ]
+        }
+    },
+    "Jamaica": {
+        "1": {
+            "city": "Kingston",
+            "attractions": [ "Bob Marley Museum", "Emancipation Park" ]
+        },
+        "2": {
+            "city": "Montego Bay",
+            "attractions": [ "Beaches", "Rose Hall" ]
+        },
+        "3": {
+            "city": "Ocho Rios",
+            "attractions": [ "Dunn's River Falls", "Beaches" ]
+        }
+    },
+    "Japan": {
+        "1": {
+            "city": "Tokyo",
+            "attractions": [ "Shibuya Crossing", "Senso-ji" ]
+        },
+        "2": {
+            "city": "Kyoto",
+            "attractions": [ "Fushimi Inari", "Kinkaku-ji" ]
+        },
+        "3": {
+            "city": "Osaka",
+            "attractions": [ "Osaka Castle", "Dotonbori" ]
+        }
+    },
+    "Jordan": {
+        "1": {
+            "city": "Amman",
+            "attractions": [ "Citadel", "Roman Theater" ]
+        },
+        "2": {
+            "city": "Petra",
+            "attractions": [ "Al Khazneh", "Siq" ]
+        },
+        "3": {
+            "city": "Wadi Rum",
+            "attractions": [ "Desert Tours", "Camel Rides" ]
+        }
+    },
+    "Kazakhstan": {
+        "1": {
+            "city": "Astana",
+            "attractions": [ "Bayterek Tower", "Palace of Peace" ]
+        },
+        "2": {
+            "city": "Almaty",
+            "attractions": [ "Medeu", "Panfilov Park" ]
+        },
+        "3": {
+            "city": "Charyn Canyon",
+            "attractions": [ "Canyon Views", "Hiking" ]
+        }
+    },
+    "Kenya": {
+        "1": {
+            "city": "Nairobi",
+            "attractions": [ "Nairobi National Park", "Giraffe Centre" ]
+        },
+        "2": {
+            "city": "Maasai Mara",
+            "attractions": [ "Safari", "Great Migration (seasonal)" ]
+        },
+        "3": {
+            "city": "Mombasa",
+            "attractions": [ "Fort Jesus", "Beaches" ]
+        }
+    },
+    "Kiribati": {
+        "1": {
+            "city": "Tarawa",
+            "attractions": [ "Atoll Life", "WWII Sites" ]
+        },
+        "2": {
+            "city": "Christmas Island",
+            "attractions": [ "Fishing", "Local Culture" ]
+        },
+        "3": {
+            "city": "Kiritimati",
+            "attractions": [ "Birdlife", "Beaches" ]
+        }
+    },
+    "Kuwait": {
+        "1": {
+            "city": "Kuwait City",
+            "attractions": [ "Grand Mosque", "Kuwait Towers" ]
+        },
+        "2": {
+            "city": "Failaka Island",
+            "attractions": [ "Archaeological Sites", "Beaches" ]
+        },
+        "3": {
+            "city": "Souk",
+            "attractions": [ "Traditional Markets", "Cultural Centers" ]
+        }
+    },
+    "Kyrgyzstan": {
+        "1": {
+            "city": "Bishkek",
+            "attractions": [ "Ala-Too Square", "Osh Bazaar" ]
+        },
+        "2": {
+            "city": "Issyk-Kul",
+            "attractions": [ "Lake", "Beaches" ]
+        },
+        "3": {
+            "city": "Karakeche",
+            "attractions": [ "Mountain Trails", "Nomad Culture" ]
+        }
+    },
+    "Laos": {
+        "1": {
+            "city": "Vientiane",
+            "attractions": [ "Pha That Luang", "Patuxai" ]
+        },
+        "2": {
+            "city": "Luang Prabang",
+            "attractions": [ "Kuang Si Falls", "Mount Phousi" ]
+        },
+        "3": {
+            "city": "Vang Vieng",
+            "attractions": [ "River Activities", "Caves" ]
+        }
+    },
+    "Latvia": {
+        "1": {
+            "city": "Riga",
+            "attractions": [ "Old Town", "Art Nouveau District" ]
+        },
+        "2": {
+            "city": "Jurmala",
+            "attractions": [ "Beaches", "Resorts" ]
+        },
+        "3": {
+            "city": "Sigulda",
+            "attractions": [ "Gauja National Park", "Caves" ]
+        }
+    },
+    "Lebanon": {
+        "1": {
+            "city": "Beirut",
+            "attractions": [ "Corniche", "National Museum" ]
+        },
+        "2": {
+            "city": "Byblos",
+            "attractions": [ "Old Port", "Archaeological Sites" ]
+        },
+        "3": {
+            "city": "Baalbek",
+            "attractions": [ "Roman Temples", "Ruins" ]
+        }
+    },
+    "Lesotho": {
+        "1": {
+            "city": "Maseru",
+            "attractions": [ "Markets", "Cultural Centers" ]
+        },
+        "2": {
+            "city": "Semonkong",
+            "attractions": [ "Maletsunyane Falls", "Horse Trails" ]
+        },
+        "3": {
+            "city": "Thaba-Tseka",
+            "attractions": [ "Mountain Scenery", "Local Life" ]
+        }
+    },
+    "Liberia": {
+        "1": {
+            "city": "Monrovia",
+            "attractions": [ "National Museum", "Waterside" ]
+        },
+        "2": {
+            "city": "Sapo National Park",
+            "attractions": [ "Rainforest", "Wildlife" ]
+        },
+        "3": {
+            "city": "Kpatawee",
+            "attractions": [ "Scenic Areas", "Local Culture" ]
+        }
+    },
+    "Libya": {
+        "1": {
+            "city": "Tripoli",
+            "attractions": [ "Old Town", "Red Castle" ]
+        },
+        "2": {
+            "city": "Leptis Magna",
+            "attractions": [ "Roman Ruins", "Ancient Port" ]
+        },
+        "3": {
+            "city": "Ghadames",
+            "attractions": [ "Old Oasis Town", "Cultural Sites" ]
+        }
+    },
+    "Liechtenstein": {
+        "1": {
+            "city": "Vaduz",
+            "attractions": [ "Vaduz Castle", "Art Museum" ]
+        },
+        "2": {
+            "city": "Malbun",
+            "attractions": [ "Hiking Trails", "Alpine Views" ]
+        },
+        "3": {
+            "city": "Balzers",
+            "attractions": [ "Gutenberg Castle", "Village Tours" ]
+        }
+    },
+    "Lithuania": {
+        "1": {
+            "city": "Vilnius",
+            "attractions": [ "Old Town", "Gediminas Tower" ]
+        },
+        "2": {
+            "city": "Trakai",
+            "attractions": [ "Trakai Castle", "Lake" ]
+        },
+        "3": {
+            "city": "Klaipeda",
+            "attractions": [ "Seaside", "Curonian Spit (nearby)" ]
+        }
+    },
+    "Luxembourg": {
+        "1": {
+            "city": "Luxembourg City",
+            "attractions": [ "Old Quarter", "Casemates du Bock" ]
+        },
+        "2": {
+            "city": "Echternach",
+            "attractions": [ "Basilica", "Mullerthal Trail" ]
+        },
+        "3": {
+            "city": "Vianden",
+            "attractions": [ "Vianden Castle", "Scenic Views" ]
+        }
+    },
+    "Madagascar": {
+        "1": {
+            "city": "Antananarivo",
+            "attractions": [ "Royal Palace", "Markets" ]
+        },
+        "2": {
+            "city": "Andasibe",
+            "attractions": [ "Analamazaotra Reserve", "Lemurs" ]
+        },
+        "3": {
+            "city": "Nosy Be",
+            "attractions": [ "Beaches", "Marine Life" ]
+        }
+    },
+    "Malawi": {
+        "1": {
+            "city": "Lilongwe",
+            "attractions": [ "Local Markets", "Cultural Centers" ]
+        },
+        "2": {
+            "city": "Lake Malawi",
+            "attractions": [ "Beaches", "Snorkeling" ]
+        },
+        "3": {
+            "city": "Mzuzu",
+            "attractions": [ "Nature", "Parks" ]
+        }
+    },
+    "Malaysia": {
+        "1": {
+            "city": "Kuala Lumpur",
+            "attractions": [ "Petronas Towers", "Batu Caves" ]
+        },
+        "2": {
+            "city": "Penang",
+            "attractions": [ "George Town", "Street Food" ]
+        },
+        "3": {
+            "city": "Borneo",
+            "attractions": [ "Kinabalu Park", "Orangutan Centers" ]
+        }
+    },
+    "Maldives": {
+        "1": {
+            "city": "Malé",
+            "attractions": [ "Grand Friday Mosque", "Local Markets" ]
+        },
+        "2": {
+            "city": "Ari Atoll",
+            "attractions": [ "Diving", "Resorts" ]
+        },
+        "3": {
+            "city": "Baa Atoll",
+            "attractions": [ "Marine Reserve", "Snorkeling" ]
+        }
+    },
+    "Mali": {
+        "1": {
+            "city": "Bamako",
+            "attractions": [ "National Museum", "Markets" ]
+        },
+        "2": {
+            "city": "Timbuktu",
+            "attractions": [ "Ancient Manuscripts", "Historic Sites" ]
+        },
+        "3": {
+            "city": "Djenne",
+            "attractions": [ "Great Mosque", "Market" ]
+        }
+    },
+    "Malta": {
+        "1": {
+            "city": "Valletta",
+            "attractions": [ "St. John's Co-Cathedral", "Upper Barrakka Gardens" ]
+        },
+        "2": {
+            "city": "Mdina",
+            "attractions": [ "Silent City", "Cathedral" ]
+        },
+        "3": {
+            "city": "Gozo",
+            "attractions": [ "Cittadella", "Coastal Views" ]
+        }
+    },
+    "Marshall Islands": {
+        "1": {
+            "city": "Majuro",
+            "attractions": [ "Lagoon", "Local Markets" ]
+        },
+        "2": {
+            "city": "Bikini Atoll",
+            "attractions": [ "WWII Sites", "Diving" ]
+        },
+        "3": {
+            "city": "Arno",
+            "attractions": [ "Island Life", "Fishing" ]
+        }
+    },
+    "Mauritania": {
+        "1": {
+            "city": "Nouakchott",
+            "attractions": [ "National Museum", "Markets" ]
+        },
+        "2": {
+            "city": "Atar",
+            "attractions": [ "Adrar Region", "Desert Views" ]
+        },
+        "3": {
+            "city": "Chinguetti",
+            "attractions": [ "Ancient Libraries", "Oasis" ]
+        }
+    },
+    "Mauritius": {
+        "1": {
+            "city": "Port Louis",
+            "attractions": [ "Aapravasi Ghat", "Market" ]
+        },
+        "2": {
+            "city": "Grand Baie",
+            "attractions": [ "Beaches", "Water Sports" ]
+        },
+        "3": {
+            "city": "Le Morne",
+            "attractions": [ "Le Morne Brabant", "Scenic Views" ]
+        }
+    },
+    "Mexico": {
+        "1": {
+            "city": "Mexico City",
+            "attractions": [ "Zocalo", "Frida Kahlo Museum" ]
+        },
+        "2": {
+            "city": "Teotihuacan",
+            "attractions": [ "Pyramids", "Avenue of the Dead" ]
+        },
+        "3": {
+            "city": "Cancun",
+            "attractions": [ "Beaches", "Mayan Ruins nearby" ]
+        }
+    },
+    "Micronesia": {
+        "1": {
+            "city": "Palikir",
+            "attractions": [ "Cultural Sites", "Nature" ]
+        },
+        "2": {
+            "city": "Pohnpei",
+            "attractions": [ "Nan Madol", "Waterfalls" ]
+        },
+        "3": {
+            "city": "Kosrae",
+            "attractions": [ "Diving", "Coral Reefs" ]
+        }
+    },
+    "Moldova": {
+        "1": {
+            "city": "Chisinau",
+            "attractions": [ "Cathedral Park", "Museums" ]
+        },
+        "2": {
+            "city": "Orheiul Vechi",
+            "attractions": [ "Archaeological Complex", "Monasteries" ]
+        },
+        "3": {
+            "city": "Cricova",
+            "attractions": [ "Wine Cellars", "Tastings" ]
+        }
+    },
+    "Monaco": {
+        "1": {
+            "city": "Monte Carlo",
+            "attractions": [ "Casino", "Prince's Palace" ]
+        },
+        "2": {
+            "city": "Monaco-Ville",
+            "attractions": [ "Old Town", "Oceanographic Museum" ]
+        },
+        "3": {
+            "city": "Larvotto",
+            "attractions": [ "Beaches", "Promenade" ]
+        }
+    },
+    "Mongolia": {
+        "1": {
+            "city": "Ulaanbaatar",
+            "attractions": [ "Gandan Monastery", "National Museum" ]
+        },
+        "2": {
+            "city": "Terelj",
+            "attractions": [ "National Park", "Nomad Camps" ]
+        },
+        "3": {
+            "city": "Gobi",
+            "attractions": [ "Desert Landscapes", "Dinosaur Bay" ]
+        }
+    },
+    "Montenegro": {
+        "1": {
+            "city": "Kotor",
+            "attractions": [ "Bay of Kotor", "Old Town" ]
+        },
+        "2": {
+            "city": "Budva",
+            "attractions": [ "Beaches", "Citadel" ]
+        },
+        "3": {
+            "city": "Durmitor",
+            "attractions": [ "National Park", "Tara Canyon" ]
+        }
+    },
+    "Morocco": {
+        "1": {
+            "city": "Marrakech",
+            "attractions": [ "Jemaa el-Fna", "Bahia Palace" ]
+        },
+        "2": {
+            "city": "Fez",
+            "attractions": [ "Medina", "Tanneries" ]
+        },
+        "3": {
+            "city": "Chefchaouen",
+            "attractions": [ "Blue Streets", "Mountain Views" ]
+        }
+    },
+    "Mozambique": {
+        "1": {
+            "city": "Maputo",
+            "attractions": [ "Central Market", "Fortress" ]
+        },
+        "2": {
+            "city": "Tofo",
+            "attractions": [ "Beaches", "Diving" ]
+        },
+        "3": {
+            "city": "Bazaruto",
+            "attractions": [ "Archipelago", "Marine Life" ]
+        }
+    },
+    "Myanmar": {
+        "1": {
+            "city": "Yangon",
+            "attractions": [ "Shwedagon Pagoda", "Bogyoke Market" ]
+        },
+        "2": {
+            "city": "Bagan",
+            "attractions": [ "Temples", "Sunrise Balloon Rides" ]
+        },
+        "3": {
+            "city": "Inle Lake",
+            "attractions": [ "Floating Villages", "Markets" ]
+        }
+    },
+    "Namibia": {
+        "1": {
+            "city": "Windhoek",
+            "attractions": [ "Independence Memorial", "Local Markets" ]
+        },
+        "2": {
+            "city": "Sossusvlei",
+            "attractions": [ "Sand Dunes", "Desert" ]
+        },
+        "3": {
+            "city": "Etosha",
+            "attractions": [ "National Park", "Wildlife Viewing" ]
+        }
+    },
+    "Nauru": {
+        "1": {
+            "city": "Yaren",
+            "attractions": [ "Coastal Views", "Local Culture" ]
+        },
+        "2": {
+            "city": "Buada",
+            "attractions": [ "Inland Lake", "Scenic Spots" ]
+        },
+        "3": {
+            "city": "Anibare",
+            "attractions": [ "Beaches", "Fishing" ]
+        }
+    },
+    "Nepal": {
+        "1": {
+            "city": "Kathmandu",
+            "attractions": [ "Swayambhunath", "Durbar Square" ]
+        },
+        "2": {
+            "city": "Pokhara",
+            "attractions": [ "Phewa Lake", "Dhaulagiri Views" ]
+        },
+        "3": {
+            "city": "Chitwan",
+            "attractions": [ "National Park", "Wildlife Safaris" ]
+        }
+    },
+    "Netherlands": {
+        "1": {
+            "city": "Amsterdam",
+            "attractions": [ "Rijksmuseum", "Anne Frank House" ]
+        },
+        "2": {
+            "city": "Keukenhof",
+            "attractions": [ "Tulip Gardens (seasonal)", "Windmills" ]
+        },
+        "3": {
+            "city": "Rotterdam",
+            "attractions": [ "Modern Architecture", "Markthal" ]
+        }
+    },
+    "New Zealand": {
+        "1": {
+            "city": "Auckland",
+            "attractions": [ "Sky Tower", "Waiheke Island" ]
+        },
+        "2": {
+            "city": "Rotorua",
+            "attractions": [ "Geothermal Parks", "Maori Culture" ]
+        },
+        "3": {
+            "city": "Queenstown",
+            "attractions": [ "Adventure Sports", "Milford Sound" ]
+        }
+    },
+    "Nicaragua": {
+        "1": {
+            "city": "Managua",
+            "attractions": [ "Historic Sites", "Markets" ]
+        },
+        "2": {
+            "city": "Granada",
+            "attractions": [ "Colonial Center", "Lake Nicaragua" ]
+        },
+        "3": {
+            "city": "Ometepe",
+            "attractions": [ "Volcanoes", "Nature Tours" ]
+        }
+    },
+    "Niger": {
+        "1": {
+            "city": "Niamey",
+            "attractions": [ "National Museum", "Riverfront" ]
+        },
+        "2": {
+            "city": "Agadez",
+            "attractions": [ "Sahara Gateway", "Cultural Sites" ]
+        },
+        "3": {
+            "city": "Tenere",
+            "attractions": [ "Desert Landscapes", "Tuareg Culture" ]
+        }
+    },
+    "Nigeria": {
+        "1": {
+            "city": "Lagos",
+            "attractions": [ "Victoria Island", "Lekki Conservation Centre" ]
+        },
+        "2": {
+            "city": "Abuja",
+            "attractions": [ "Aso Rock", "National Mosque" ]
+        },
+        "3": {
+            "city": "Calabar",
+            "attractions": [ "Cultural Festivals", "National Parks" ]
+        }
+    },
+    "North Korea": {
+        "1": {
+            "city": "Pyongyang",
+            "attractions": [ "Kim Il-sung Square", "Victorious Fatherland Liberation War Museum" ]
+        },
+        "2": {
+            "city": "Mount Myohyang",
+            "attractions": [ "International Friendship Exhibition", "Scenic Trails" ]
+        },
+        "3": {
+            "city": "Kaesong",
+            "attractions": [ "Historic Sites", "Koryo Museum" ]
+        }
+    },
+    "North Macedonia": {
+        "1": {
+            "city": "Skopje",
+            "attractions": [ "Stone Bridge", "Old Bazaar" ]
+        },
+        "2": {
+            "city": "Ohrid",
+            "attractions": [ "Lake Ohrid", "Churches" ]
+        },
+        "3": {
+            "city": "Bitola",
+            "attractions": [ "Heraclea Lyncestis", "Old Town" ]
+        }
+    },
+    "Norway": {
+        "1": {
+            "city": "Oslo",
+            "attractions": [ "Vigeland Park", "Opera House" ]
+        },
+        "2": {
+            "city": "Bergen",
+            "attractions": [ "Bryggen", "Fløibanen" ]
+        },
+        "3": {
+            "city": "Fjord Region",
+            "attractions": [ "Geirangerfjord", "Nærøyfjord" ]
+        }
+    },
+    "Oman": {
+        "1": {
+            "city": "Muscat",
+            "attractions": [ "Sultan Qaboos Grand Mosque", "Mutrah Souq" ]
+        },
+        "2": {
+            "city": "Nizwa",
+            "attractions": [ "Nizwa Fort", "Local Souq" ]
+        },
+        "3": {
+            "city": "Wahiba Sands",
+            "attractions": [ "Desert Camps", "Dune Experiences" ]
+        }
+    },
+    "Pakistan": {
+        "1": {
+            "city": "Islamabad",
+            "attractions": [ "Faisal Mosque", "Monal Viewpoint" ]
+        },
+        "2": {
+            "city": "Lahore",
+            "attractions": [ "Lahore Fort", "Badshahi Mosque" ]
+        },
+        "3": {
+            "city": "Karachi",
+            "attractions": [ "Clifton Beach", "Masjid-e-Tooba" ]
+        }
+    },
+    "Palau": {
+        "1": {
+            "city": "Koror",
+            "attractions": [ "Rock Islands", "Jellyfish Lake" ]
+        },
+        "2": {
+            "city": "Babeldaob",
+            "attractions": [ "Nature Trails", "Cultural Sites" ]
+        },
+        "3": {
+            "city": "Peleliu",
+            "attractions": [ "WWII Sites", "Diving" ]
+        }
+    },
+    "Panama": {
+        "1": {
+            "city": "Panama City",
+            "attractions": [ "Panama Canal", "Casco Viejo" ]
+        },
+        "2": {
+            "city": "Boquete",
+            "attractions": [ "Coffee Tours", "Hiking" ]
+        },
+        "3": {
+            "city": "Bocas del Toro",
+            "attractions": [ "Islands", "Beaches" ]
+        }
+    },
+    "Papua New Guinea": {
+        "1": {
+            "city": "Port Moresby",
+            "attractions": [ "National Museum", "Local Markets" ]
+        },
+        "2": {
+            "city": "Kokoda Track",
+            "attractions": [ "Hiking", "WWII History" ]
+        },
+        "3": {
+            "city": "Tufi",
+            "attractions": [ "Fjord Diving", "Cultural Tours" ]
+        }
+    },
+    "Paraguay": {
+        "1": {
+            "city": "Asuncion",
+            "attractions": [ "Historical Center", "Uno Park" ]
+        },
+        "2": {
+            "city": "Encarnacion",
+            "attractions": [ "Beaches", "Jesuit Ruins nearby" ]
+        },
+        "3": {
+            "city": "Itaipu",
+            "attractions": [ "Itaipu Dam", "Nature" ]
+        }
+    },
+    "Peru": {
+        "1": {
+            "city": "Lima",
+            "attractions": [ "Historic Center", "Larco Museum" ]
+        },
+        "2": {
+            "city": "Cusco",
+            "attractions": [ "Plaza de Armas", "Sacsayhuaman" ]
+        },
+        "3": {
+            "city": "Machu Picchu",
+            "attractions": [ "Citadel", "Sun Gate" ]
+        }
+    },
+    "Philippines": {
+        "1": {
+            "city": "Manila",
+            "attractions": [ "Intramuros", "Rizal Park" ]
+        },
+        "2": {
+            "city": "Palawan",
+            "attractions": [ "Underground River", "El Nido" ]
+        },
+        "3": {
+            "city": "Cebu",
+            "attractions": [ "Magellan's Cross", "Beaches" ]
+        }
+    },
+    "Poland": {
+        "1": {
+            "city": "Krakow",
+            "attractions": [ "Main Market Square", "Wawel Castle" ]
+        },
+        "2": {
+            "city": "Warsaw",
+            "attractions": [ "Old Town", "Royal Castle" ]
+        },
+        "3": {
+            "city": "Wieliczka",
+            "attractions": [ "Salt Mine", "Underground Chapels" ]
+        }
+    },
+    "Portugal": {
+        "1": {
+            "city": "Lisbon",
+            "attractions": [ "Belém Tower", "Alfama" ]
+        },
+        "2": {
+            "city": "Sintra",
+            "attractions": [ "Pena Palace", "Quinta da Regaleira" ]
+        },
+        "3": {
+            "city": "Porto",
+            "attractions": [ "Ribeira", "Port Wine Cellars" ]
+        }
+    },
+    "Qatar": {
+        "1": {
+            "city": "Doha",
+            "attractions": [ "Museum of Islamic Art", "Souq Waqif" ]
+        },
+        "2": {
+            "city": "Al Zubarah",
+            "attractions": [ "Archaeological Site", "Fort" ]
+        },
+        "3": {
+            "city": "The Pearl",
+            "attractions": [ "Marina", "Shopping" ]
+        }
+    },
+    "Romania": {
+        "1": {
+            "city": "Bucharest",
+            "attractions": [ "Palace of Parliament", "Old Town" ]
+        },
+        "2": {
+            "city": "Brasov",
+            "attractions": [ "Council Square", "Bran Castle nearby" ]
+        },
+        "3": {
+            "city": "Sibiu",
+            "attractions": [ "Historic Center", "ASTRA Museum" ]
+        }
+    },
+    "Russia": {
+        "1": {
+            "city": "Moscow",
+            "attractions": [ "Red Square", "Kremlin" ]
+        },
+        "2": {
+            "city": "Saint Petersburg",
+            "attractions": [ "Hermitage", "Peterhof" ]
+        },
+        "3": {
+            "city": "Golden Ring",
+            "attractions": [ "Suzdal", "Vladimir" ]
+        }
+    },
+    "Rwanda": {
+        "1": {
+            "city": "Kigali",
+            "attractions": [ "Genocide Memorial", "Markets" ]
+        },
+        "2": {
+            "city": "Volcanoes NP",
+            "attractions": [ "Gorilla Trekking", "Nature" ]
+        },
+        "3": {
+            "city": "Lake Kivu",
+            "attractions": [ "Beaches", "Island Tours" ]
+        }
+    },
+    "Saint Kitts and Nevis": {
+        "1": {
+            "city": "Basseterre",
+            "attractions": [ "Brimstone Hill Fortress", "Historic Sites" ]
+        },
+        "2": {
+            "city": "Nevis",
+            "attractions": [ "Pinney's Beach", "Botanical Gardens" ]
+        },
+        "3": {
+            "city": "Sandy Point",
+            "attractions": [ "Beaches", "Local Culture" ]
+        }
+    },
+    "Saint Lucia": {
+        "1": {
+            "city": "Castries",
+            "attractions": [ "Market", "Derek Walcott Square" ]
+        },
+        "2": {
+            "city": "Soufriere",
+            "attractions": [ "Pitons", "Sulphur Springs" ]
+        },
+        "3": {
+            "city": "Rodney Bay",
+            "attractions": [ "Beaches", "Marina" ]
+        }
+    },
+    "Saint Vincent and the Grenadines": {
+        "1": {
+            "city": "Kingstown",
+            "attractions": [ "Botanical Gardens", "Fort Charlotte" ]
+        },
+        "2": {
+            "city": "Bequia",
+            "attractions": [ "Beaches", "Harbor" ]
+        },
+        "3": {
+            "city": "Tobago Cays",
+            "attractions": [ "Marine Park", "Snorkeling" ]
+        }
+    },
+    "Samoa": {
+        "1": {
+            "city": "Apia",
+            "attractions": [ "Robert Louis Stevenson Museum", "Local Markets" ]
+        },
+        "2": {
+            "city": "Upolu",
+            "attractions": [ "Beaches", "Waterfalls" ]
+        },
+        "3": {
+            "city": "Savai'i",
+            "attractions": [ "Volcanic Landscapes", "Cultural Villages" ]
+        }
+    },
+    "San Marino": {
+        "1": {
+            "city": "San Marino",
+            "attractions": [ "Guaita Tower", "Old Town" ]
+        },
+        "2": {
+            "city": "Borgo Maggiore",
+            "attractions": [ "Markets", "Cable Car" ]
+        },
+        "3": {
+            "city": "Monte Titano",
+            "attractions": [ "Hiking", "Views" ]
+        }
+    },
+    "Sao Tome and Principe": {
+        "1": {
+            "city": "Sao Tome",
+            "attractions": [ "Colonial Center", "Local Markets" ]
+        },
+        "2": {
+            "city": "Principie",
+            "attractions": [ "Beaches", "Nature Reserves" ]
+        },
+        "3": {
+            "city": "Ilheu das Rolas",
+            "attractions": [ "Equator Marker", "Marine Life" ]
+        }
+    },
+    "Saudi Arabia": {
+        "1": {
+            "city": "Riyadh",
+            "attractions": [ "Masmak Fortress", "National Museum" ]
+        },
+        "2": {
+            "city": "Jeddah",
+            "attractions": [ "Al-Balad", "Corniche" ]
+        },
+        "3": {
+            "city": "AlUla",
+            "attractions": [ "Madain Saleh", "Rock Formations" ]
+        }
+    },
+    "Senegal": {
+        "1": {
+            "city": "Dakar",
+            "attractions": [ "Gorée Island", "African Renaissance Monument" ]
+        },
+        "2": {
+            "city": "Saint-Louis",
+            "attractions": [ "Colonial Architecture", "Riverfront" ]
+        },
+        "3": {
+            "city": "Sine-Saloum",
+            "attractions": [ "Delta", "Birdlife" ]
+        }
+    },
+    "Serbia": {
+        "1": {
+            "city": "Belgrade",
+            "attractions": [ "Kalemegdan", "Skadarlija" ]
+        },
+        "2": {
+            "city": "Novi Sad",
+            "attractions": [ "Petrovaradin Fortress", "Danube" ]
+        },
+        "3": {
+            "city": "Nis",
+            "attractions": [ "Historic Sites", "Local Culture" ]
+        }
+    },
+    "Seychelles": {
+        "1": {
+            "city": "Victoria",
+            "attractions": [ "Botanical Garden", "Clock Tower" ]
+        },
+        "2": {
+            "city": "Praslin",
+            "attractions": [ "Vallée de Mai", "Anse Lazio" ]
+        },
+        "3": {
+            "city": "La Digue",
+            "attractions": [ "Beaches", "Cycling" ]
+        }
+    },
+    "Sierra Leone": {
+        "1": {
+            "city": "Freetown",
+            "attractions": [ "Cotton Tree", "Local Markets" ]
+        },
+        "2": {
+            "city": "Tiwai Island",
+            "attractions": [ "Wildlife", "Forest" ]
+        },
+        "3": {
+            "city": "Bunce Island",
+            "attractions": [ "Historical Sites", "River" ]
+        }
+    },
+    "Singapore": {
+        "1": {
+            "city": "Singapore",
+            "attractions": [ "Marina Bay Sands", "Gardens by the Bay" ]
+        },
+        "2": {
+            "city": "Sentosa",
+            "attractions": [ "Beaches", "Universal Studios" ]
+        },
+        "3": {
+            "city": "Chinatown",
+            "attractions": [ "Heritage", "Markets" ]
+        }
+    },
+    "Slovakia": {
+        "1": {
+            "city": "Bratislava",
+            "attractions": [ "Old Town", "Bratislava Castle" ]
+        },
+        "2": {
+            "city": "High Tatras",
+            "attractions": [ "Hiking", "Mountain Views" ]
+        },
+        "3": {
+            "city": "Kosice",
+            "attractions": [ "St. Elisabeth Cathedral", "Old Town" ]
+        }
+    },
+    "Slovenia": {
+        "1": {
+            "city": "Ljubljana",
+            "attractions": [ "Triple Bridge", "Old Town" ]
+        },
+        "2": {
+            "city": "Bled",
+            "attractions": [ "Lake Bled", "Bled Castle" ]
+        },
+        "3": {
+            "city": "Piran",
+            "attractions": [ "Coastal Old Town", "Seaside" ]
+        }
+    },
+    "Solomon Islands": {
+        "1": {
+            "city": "Honiara",
+            "attractions": [ "National Museum", "WWII Sites" ]
+        },
+        "2": {
+            "city": "Guadalcanal",
+            "attractions": [ "Battlefields", "Nature" ]
+        },
+        "3": {
+            "city": "Makira",
+            "attractions": [ "Diving", "Local Culture" ]
+        }
+    },
+    "Somalia": {
+        "1": {
+            "city": "Mogadishu",
+            "attractions": [ "Liido Beach", "Old Port" ]
+        },
+        "2": {
+            "city": "Hargeisa",
+            "attractions": [ "Cultural Sites", "Markets" ]
+        },
+        "3": {
+            "city": "Borama",
+            "attractions": [ "Scenic Areas", "Local Life" ]
+        }
+    },
+    "South Africa": {
+        "1": {
+            "city": "Cape Town",
+            "attractions": [ "Table Mountain", "Robben Island" ]
+        },
+        "2": {
+            "city": "Johannesburg",
+            "attractions": [ "Apartheid Museum", "Soweto" ]
+        },
+        "3": {
+            "city": "Kruger",
+            "attractions": [ "Safari", "Wildlife" ]
+        }
+    },
+    "South Korea": {
+        "1": {
+            "city": "Seoul",
+            "attractions": [ "Gyeongbokgung Palace", "Myeongdong" ]
+        },
+        "2": {
+            "city": "Busan",
+            "attractions": [ "Haeundae Beach", "Gamcheon Village" ]
+        },
+        "3": {
+            "city": "Gyeongju",
+            "attractions": [ "Historic Sites", "Temples" ]
+        }
+    },
+    "South Sudan": {
+        "1": {
+            "city": "Juba",
+            "attractions": [ "Riverfront", "Markets" ]
+        },
+        "2": {
+            "city": "Boma",
+            "attractions": [ "National Park", "Wildlife" ]
+        },
+        "3": {
+            "city": "Yei",
+            "attractions": [ "Local Culture", "Nature" ]
+        }
+    },
+    "Spain": {
+        "1": {
+            "city": "Madrid",
+            "attractions": [ "Prado Museum", "Royal Palace" ]
+        },
+        "2": {
+            "city": "Barcelona",
+            "attractions": [ "Sagrada Familia", "Park Guell" ]
+        },
+        "3": {
+            "city": "Seville",
+            "attractions": [ "Seville Cathedral", "Alcazar" ]
+        }
+    },
+    "Sri Lanka": {
+        "1": {
+            "city": "Colombo",
+            "attractions": [ "Galle Face Green", "National Museum" ]
+        },
+        "2": {
+            "city": "Kandy",
+            "attractions": [ "Temple of the Tooth", "Botanical Gardens" ]
+        },
+        "3": {
+            "city": "Galle",
+            "attractions": [ "Galle Fort", "Beaches" ]
+        }
+    },
+    "Sudan": {
+        "1": {
+            "city": "Khartoum",
+            "attractions": [ "National Museum", "Confluence of Nile" ]
+        },
+        "2": {
+            "city": "Meroe",
+            "attractions": [ "Pyramids", "Archaeological Sites" ]
+        },
+        "3": {
+            "city": "Port Sudan",
+            "attractions": [ "Red Sea", "Diving" ]
+        }
+    },
+    "Suriname": {
+        "1": {
+            "city": "Paramaribo",
+            "attractions": [ "Fort Zeelandia", "Historic Center" ]
+        },
+        "2": {
+            "city": "Brownsberg",
+            "attractions": [ "Nature Park", "Hiking" ]
+        },
+        "3": {
+            "city": "Commewijne",
+            "attractions": [ "Plantations", "River Tours" ]
+        }
+    },
+    "Sweden": {
+        "1": {
+            "city": "Stockholm",
+            "attractions": [ "Gamla Stan", "Vasa Museum" ]
+        },
+        "2": {
+            "city": "Gothenburg",
+            "attractions": [ "Liseberg", "Haga" ]
+        },
+        "3": {
+            "city": "Kiruna",
+            "attractions": [ "Northern Lights (seasonal)", "Icehotel (nearby)" ]
+        }
+    },
+    "Switzerland": {
+        "1": {
+            "city": "Zurich",
+            "attractions": [ "Old Town", "Lake Zurich" ]
+        },
+        "2": {
+            "city": "Lucerne",
+            "attractions": [ "Chapel Bridge", "Mount Pilatus" ]
+        },
+        "3": {
+            "city": "Interlaken",
+            "attractions": [ "Jungfrau Region", "Outdoor Sports" ]
+        }
+    },
+    "Syria": {
+        "1": {
+            "city": "Damascus",
+            "attractions": [ "Umayyad Mosque", "Old City" ]
+        },
+        "2": {
+            "city": "Aleppo",
+            "attractions": [ "Citadel", "Old Bazaar" ]
+        },
+        "3": {
+            "city": "Palmira",
+            "attractions": [ "Ancient Ruins (status varies)" ]
+        }
+    },
+    "Taiwan": {
+        "1": {
+            "city": "Taipei",
+            "attractions": [ "Taipei 101", "National Palace Museum" ]
+        },
+        "2": {
+            "city": "Taroko",
+            "attractions": [ "Taroko Gorge", "Hiking" ]
+        },
+        "3": {
+            "city": "Tainan",
+            "attractions": [ "Ancient Temples", "Historic Sites" ]
+        }
+    },
+    "Tajikistan": {
+        "1": {
+            "city": "Dushanbe",
+            "attractions": [ "National Museum", "Rudaki Park" ]
+        },
+        "2": {
+            "city": "Iskanderkul",
+            "attractions": [ "Lake Views", "Mountain Hikes" ]
+        },
+        "3": {
+            "city": "Pamir",
+            "attractions": [ "Highland Scenery", "Nomad Culture" ]
+        }
+    },
+    "Tanzania": {
+        "1": {
+            "city": "Arusha",
+            "attractions": [ "National Parks", "Mount Meru Views" ]
+        },
+        "2": {
+            "city": "Serengeti",
+            "attractions": [ "Safari", "Wildlife" ]
+        },
+        "3": {
+            "city": "Zanzibar",
+            "attractions": [ "Stone Town", "Beaches" ]
+        }
+    },
+    "Thailand": {
+        "1": {
+            "city": "Bangkok",
+            "attractions": [ "Grand Palace", "Wat Pho" ]
+        },
+        "2": {
+            "city": "Chiang Mai",
+            "attractions": [ "Doi Suthep", "Old City Temples" ]
+        },
+        "3": {
+            "city": "Phuket",
+            "attractions": [ "Beaches", "Island Tours" ]
+        }
+    },
+    "Timor-Leste": {
+        "1": {
+            "city": "Dili",
+            "attractions": [ "Cristo Rei", "Beachfront" ]
+        },
+        "2": {
+            "city": "Baucau",
+            "attractions": [ "Historic Sites", "Beaches" ]
+        },
+        "3": {
+            "city": "Atauro",
+            "attractions": [ "Diving", "Island Life" ]
+        }
+    },
+    "Togo": {
+        "1": {
+            "city": "Lome",
+            "attractions": [ "Grand Marche", "Beaches" ]
+        },
+        "2": {
+            "city": "Kpalime",
+            "attractions": [ "Waterfalls", "Hiking" ]
+        },
+        "3": {
+            "city": "Tsevié",
+            "attractions": [ "Local Culture", "Markets" ]
+        }
+    },
+    "Tonga": {
+        "1": {
+            "city": "Nuku'alofa",
+            "attractions": [ "Royal Palace", "Beaches" ]
+        },
+        "2": {
+            "city": "Vava'u",
+            "attractions": [ "Whale Watching (seasonal)", "Islands" ]
+        },
+        "3": {
+            "city": "Ha'apai",
+            "attractions": [ "Beaches", "Diving" ]
+        }
+    },
+    "Trinidad and Tobago": {
+        "1": {
+            "city": "Port of Spain",
+            "attractions": [ "Queen's Park Savannah", "National Museum" ]
+        },
+        "2": {
+            "city": "Tobago",
+            "attractions": [ "Beaches", "Caroni Bird Sanctuary" ]
+        },
+        "3": {
+            "city": "Scarborough",
+            "attractions": [ "Local Markets", "Fort" ]
+        }
+    },
+    "Tunisia": {
+        "1": {
+            "city": "Tunis",
+            "attractions": [ "Medina", "Bardo Museum" ]
+        },
+        "2": {
+            "city": "Carthage",
+            "attractions": [ "Ruins", "Antiquities" ]
+        },
+        "3": {
+            "city": "Sousse",
+            "attractions": [ "Ribat", "Beaches" ]
+        }
+    },
+    "Turkey": {
+        "1": {
+            "city": "Istanbul",
+            "attractions": [ "Hagia Sophia", "Blue Mosque" ]
+        },
+        "2": {
+            "city": "Cappadocia",
+            "attractions": [ "Goreme", "Hot Air Balloons" ]
+        },
+        "3": {
+            "city": "Ephesus",
+            "attractions": [ "Ancient Ruins", "Library of Celsus" ]
+        }
+    },
+    "Turkmenistan": {
+        "1": {
+            "city": "Ashgabat",
+            "attractions": [ "National Museum", "Monuments" ]
+        },
+        "2": {
+            "city": "Karakum",
+            "attractions": [ "Darvaza Gas Crater", "Desert Tours" ]
+        },
+        "3": {
+            "city": "Merv",
+            "attractions": [ "Ancient Ruins", "World Heritage" ]
+        }
+    },
+    "Tuvalu": {
+        "1": {
+            "city": "Funafuti",
+            "attractions": [ "Lagoon", "Atoll Life" ]
+        },
+        "2": {
+            "city": "Vaitupu",
+            "attractions": [ "Island Tours", "Beaches" ]
+        },
+        "3": {
+            "city": "Nanumea",
+            "attractions": [ "Local Culture", "Scenic Coasts" ]
+        }
+    },
+    "Uganda": {
+        "1": {
+            "city": "Kampala",
+            "attractions": [ "Uganda Museum", "Markets" ]
+        },
+        "2": {
+            "city": "Bwindi",
+            "attractions": [ "Gorilla Trekking", "Rainforest" ]
+        },
+        "3": {
+            "city": "Murchison Falls",
+            "attractions": [ "River Safaris", "Falls" ]
+        }
+    },
+    "Ukraine": {
+        "1": {
+            "city": "Kyiv",
+            "attractions": [ "Saint Sophia Cathedral", "Maidan" ]
+        },
+        "2": {
+            "city": "Lviv",
+            "attractions": [ "Old Town", "Opera House" ]
+        },
+        "3": {
+            "city": "Odessa",
+            "attractions": [ "Potemkin Stairs", "Seaside" ]
+        }
+    },
+    "United Arab Emirates": {
+        "1": {
+            "city": "Dubai",
+            "attractions": [ "Burj Khalifa", "Dubai Mall" ]
+        },
+        "2": {
+            "city": "Abu Dhabi",
+            "attractions": [ "Sheikh Zayed Mosque", "Louvre Abu Dhabi" ]
+        },
+        "3": {
+            "city": "Sharjah",
+            "attractions": [ "Museums", "Cultural Sites" ]
+        }
+    },
+    "United Kingdom": {
+        "1": {
+            "city": "London",
+            "attractions": [ "British Museum", "Tower of London" ]
+        },
+        "2": {
+            "city": "Bath",
+            "attractions": [ "Roman Baths", "Royal Crescent" ]
+        },
+        "3": {
+            "city": "Edinburgh",
+            "attractions": [ "Edinburgh Castle", "Royal Mile" ]
+        }
+    },
+    "United States": {
+        "1": {
+            "city": "New York",
+            "attractions": [ "Statue of Liberty", "Central Park" ]
+        },
+        "2": {
+            "city": "Washington D.C.",
+            "attractions": [ "National Mall", "Smithsonian Museums" ]
+        },
+        "3": {
+            "city": "San Francisco",
+            "attractions": [ "Golden Gate Bridge", "Alcatraz Island" ]
+        }
+    },
+    "Uruguay": {
+        "1": {
+            "city": "Montevideo",
+            "attractions": [ "Ciudad Vieja", "Rambla" ]
+        },
+        "2": {
+            "city": "Punta del Este",
+            "attractions": [ "Beaches", "Sculptures" ]
+        },
+        "3": {
+            "city": "Colonia",
+            "attractions": [ "Historic Quarter", "Riverfront" ]
+        }
+    },
+    "Uzbekistan": {
+        "1": {
+            "city": "Tashkent",
+            "attractions": [ "Chorsu Bazaar", "Khast Imam Complex" ]
+        },
+        "2": {
+            "city": "Samarkand",
+            "attractions": [ "Registan", "Shah-i-Zinda" ]
+        },
+        "3": {
+            "city": "Bukhara",
+            "attractions": [ "Historic Center", "Ark Fortress" ]
+        }
+    },
+    "Vanuatu": {
+        "1": {
+            "city": "Port Vila",
+            "attractions": [ "Mele Cascades", "Markets" ]
+        },
+        "2": {
+            "city": "Espiritu Santo",
+            "attractions": [ "Blue Holes", "Diving" ]
+        },
+        "3": {
+            "city": "Tanna",
+            "attractions": [ "Mount Yasur", "Cultural Villages" ]
+        }
+    },
+    "Vatican City": {
+        "1": {
+            "city": "Vatican City",
+            "attractions": [ "St. Peter's Basilica", "Sistine Chapel" ]
+        },
+        "2": {
+            "city": "Rome (nearby)",
+            "attractions": [ "Vatican Museums", "St. Peter's Square" ]
+        },
+        "3": {
+            "city": "Vatican Gardens",
+            "attractions": [ "Gardens", "Guided Tours" ]
+        }
+    },
+    "Venezuela": {
+        "1": {
+            "city": "Caracas",
+            "attractions": [ "Plaza Bolivar", "Teleferico" ]
+        },
+        "2": {
+            "city": "Angel Falls area",
+            "attractions": [ "Angel Falls", "Canaima National Park" ]
+        },
+        "3": {
+            "city": "Margarita Island",
+            "attractions": [ "Beaches", "Water Sports" ]
+        }
+    },
+    "Vietnam": {
+        "1": {
+            "city": "Hanoi",
+            "attractions": [ "Old Quarter", "Hoan Kiem Lake" ]
+        },
+        "2": {
+            "city": "Halong Bay",
+            "attractions": [ "Cruise", "Caves" ]
+        },
+        "3": {
+            "city": "Ho Chi Minh City",
+            "attractions": [ "War Remnants Museum", "Ben Thanh Market" ]
+        }
+    },
+    "Yemen": {
+        "1": {
+            "city": "Sana'a",
+            "attractions": [ "Old City", "Markets" ]
+        },
+        "2": {
+            "city": "Aden",
+            "attractions": [ "Port", "Historic Sites" ]
+        },
+        "3": {
+            "city": "Shibam",
+            "attractions": [ "Mudbrick Skyscrapers", "Historic Town" ]
+        }
+    },
+    "Zambia": {
+        "1": {
+            "city": "Lusaka",
+            "attractions": [ "National Museum", "Markets" ]
+        },
+        "2": {
+            "city": "Victoria Falls (Livingstone)",
+            "attractions": [ "Victoria Falls", "Zambezi River" ]
+        },
+        "3": {
+            "city": "South Luangwa",
+            "attractions": [ "Safari", "Wildlife" ]
+        }
+    },
+    "Zimbabwe": {
+        "1": {
+            "city": "Harare",
+            "attractions": [ "National Gallery", "Markets" ]
+        },
+        "2": {
+            "city": "Victoria Falls",
+            "attractions": [ "Victoria Falls", "Adventure Activities" ]
+        },
+        "3": {
+            "city": "Bulawayo",
+            "attractions": [ "Matobo National Park", "Railway Museum" ]
+        }
+    }
+}
